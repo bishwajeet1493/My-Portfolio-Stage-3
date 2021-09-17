@@ -1,0 +1,41 @@
+h1 {
+    color:white; 
+    font-size: 35px;
+    font-family:cursive ;
+}
+
+.header {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p {
+    text-align: center;
+    color:white;
+    font-size:x-large;
+    font-family:monospace;
+}
+
+h2 {
+    text-align: center;
+    color:azure;
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body {
+    background-color: rgb(22, 151, 211);
+}
